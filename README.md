@@ -50,7 +50,7 @@
 ### 📫 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/amiirahesham/)  
 - 📧 [Email](amiira.hesham.1@gmail.com)  
-- 🌐 [GitHub](https://github.com/AmiraHesham)
+- 🌐 [Kaggle](https://www.kaggle.com/amirahesham1)
 
 ---
 
