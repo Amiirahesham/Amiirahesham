@@ -3,7 +3,9 @@
 <h3 align="center">Front-End Developer | AI Enthusiast | 3rd-year AI Student @ Kafr El-Sheikh University</h3>
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=Amiirahesham&color=blue)
 
+---
 ### 🚀 About Me
 - 🎓 3rd-year AI Student | Front-End Developer | Lifelong Learner.
 - 💻 Skilled in **React.js**, **Node.js**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Bootstrap**, and **Tailwind CSS**.
