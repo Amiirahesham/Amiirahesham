@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 
-I'm a third-year Artificial Intelligence student at **Kafr El-Sheikh University** with a passion for crafting beautiful and intelligent web experiences. My journey in tech is a dual-track adventure: mastering the art of **Front-End Development** while diving deep into the world of **Machine Learning**. I thrive on turning complex problems into elegant, user-centric solutions.
+I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh University** with a passion for crafting beautiful and intelligent web experiences. My journey in tech is a dual-track adventure: mastering the art of **Front-End Development** while diving deep into the world of **Machine Learning**. I thrive on turning complex problems into elegant, user-centric solutions.
 
-- **Education:** Pursuing a B.S. in Artificial Intelligence.
+- **Education:** Final-year student, Pursuing a B.S. in Artificial Intelligence.
 - **Core Mission:** To build web applications that are not only visually stunning but also powered by smart, data-driven insights.
 - **Interests:** Natural Language Processing (NLP), Computer Vision, and building AI-powered tools that solve real-world problems.
 - **Collaboration:** I'm always open to collaborating on innovative projects that sit at the intersection of AI and Web Development.
@@ -86,9 +86,7 @@ I'm currently focused on deepening my expertise in these areas:
 
 ### 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amiirahesham/Amiirahesham/output/github-contribution-grid-snake.svg" alt="Amira's Contribution Snake Animation">
-</p>
+
 
 ---
 
