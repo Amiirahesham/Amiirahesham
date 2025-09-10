@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://path-to-your-banner-image.png" alt="Amira Hesham - AI & Front-End Developer Banner">
-</p>
+
 
 <div id="header" align="center">
   <h1>Hi there, I'm Amira Hesham 👋</h1>
@@ -36,7 +34,7 @@ I'm a third-year Artificial Intelligence student at **Kafr El-Sheikh University*
 
 ### 🛠️ My Tech Arsenal
 
-<details>
+<details open>
   <summary><strong>Frontend Development</strong></summary>
   <p align="left">
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
@@ -49,14 +47,22 @@ I'm a third-year Artificial Intelligence student at **Kafr El-Sheikh University*
   </p>
 </details>
 
-<details>
+<details open>
   <summary><strong>Backend Development</strong></summary>
   <p align="left">
     <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
   </p>
 </details>
 
-<details>
+<details open>
+  <summary><strong>Databases</strong></summary>
+  <p align="left">
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  </p>
+</details>
+
+<details open>
   <summary><strong>AI & Machine Learning</strong></summary>
   <p align="left">
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
