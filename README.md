@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path-to-your-banner-image.png" alt="Amira Hesham - AI & Front-End Developer Banner">
+  <img src="https://raw.githubusercontent.com/Amiirahesham/Amiirahesham/main/your-banner-name.png" alt="Amira Hesham - AI & Front-End Developer Banner">
 </p>
 
 <div id="header" align="center">
@@ -78,7 +78,7 @@ I'm currently focused on deepening my expertise in these areas:
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github.com/Amiirahesham/Amiirahesham/blob/output/github-contribution-grid-snake.svg" alt="Amira's Contribution Snake Animation">
+  <img src="https://raw.githubusercontent.com/Amiirahesham/Amiirahesham/output/github-contribution-grid-snake.svg" alt="Amira's Contribution Snake Animation">
 </p>
 
 ---
