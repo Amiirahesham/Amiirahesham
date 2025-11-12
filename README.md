@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <h1>Hi there, I'm Amira Hesham 👋</h1>
+  <h1>Hi there, I'm Amira Hesham </h1>
   <h3>Bridging the gap between intelligent algorithms and intuitive user interfaces.</h3>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;AI+Engineer+in+Training;Passionate+Problem+Solver;Let's+build+the+future!&center=true&width=500&height=50">
   <br>
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh University** with a passion for crafting beautiful and intelligent web experiences. My journey in tech is a dual-track adventure: mastering the art of **Front-End Development** while diving deep into the world of **Machine Learning**. I thrive on turning complex problems into elegant, user-centric solutions.
 
@@ -32,7 +32,7 @@ I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh Univer
 
 ---
 
-### 🛠️ My Tech Arsenal
+###  My Tech Arsenal
 
 <details open>
   <summary><strong>Frontend Development</strong></summary>
@@ -75,7 +75,7 @@ I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh Univer
 
 ---
 
-### 🌱 My Current Quest
+###  My Current Quest
 
 I'm currently focused on deepening my expertise in these areas:
 - **Advanced Development:** Building full-stack, server-rendered applications with **Next.js**.
@@ -84,13 +84,13 @@ I'm currently focused on deepening my expertise in these areas:
 
 ---
 
-### 📈 GitHub Activity
+###  GitHub Activity
 
 
 
 ---
 
-### 💬 Let's Connect!
+###  Let's Connect!
 
 I'm excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Let's build something amazing together!
 
