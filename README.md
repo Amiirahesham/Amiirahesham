@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Amira Hesham </h1>
   <h3>Bridging the gap between intelligent algorithms and intuitive user interfaces.</h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;AI+Engineer+in+Training;Passionate+Problem+Solver;Let's+build+the+future!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Engineer+in+Training;Passionate+Problem+Solver;Let's+build+the+future!&center=true&width=500&height=50">
   <br>
   <img src="https://komarev.com/ghpvc/?username=Amiirahesham&color=blue&style=flat-square" alt="Profile views"/>
 </div>
