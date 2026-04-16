@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <h1>Hi there, I'm Amira Hesham </h1>
   <h3>Bridging the gap between intelligent algorithms and intuitive user interfaces.</h3>
@@ -10,29 +8,27 @@
 
 ---
 
-###  About Me
+### 📖 About Me
 
 I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh University** with a passion for crafting beautiful and intelligent web experiences. My journey in tech is a dual-track adventure: mastering the art of **Front-End Development** while diving deep into the world of **Machine Learning**. I thrive on turning complex problems into elegant, user-centric solutions.
 
-- **Education:** Final-year student, Pursuing a B.S. in Artificial Intelligence.
-- **Core Mission:** To build web applications that are not only visually stunning but also powered by smart, data-driven insights.
-- **Interests:** Natural Language Processing (NLP), Computer Vision, and building AI-powered tools that solve real-world problems.
-- **Collaboration:** I'm always open to collaborating on innovative projects that sit at the intersection of AI and Web Development.
+- 🎓 **Education:** Final-year student, Pursuing a B.S. in Artificial Intelligence.
+- 🎯 **Core Mission:** To build web applications that are not only visually stunning but also powered by smart, data-driven insights.
+- 🧠 **Interests:** Natural Language Processing (NLP), Computer Vision, and building AI-powered tools.
+- 🤝 **Collaboration:** I'm always open to collaborating on innovative projects at the intersection of AI and Web Development.
 
 <div align="center">
-  
   <a href="https://github.com/Amiirahesham">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amira's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Amira's GitHub Stats"/>
   </a>
   <a href="https://github.com/Amiirahesham">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight" alt="Amira's Top Languages"/>
   </a>
-
 </div>
 
 ---
 
-###  My Tech Arsenal
+### 🛠️ My Tech Arsenal
 
 <details open>
   <summary><strong>Frontend Development</strong></summary>
@@ -48,15 +44,9 @@ I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh Univer
 </details>
 
 <details open>
-  <summary><strong>Backend Development</strong></summary>
+  <summary><strong>Backend & Databases</strong></summary>
   <p align="left">
     <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-  </p>
-</details>
-
-<details open>
-  <summary><strong>Databases</strong></summary>
-  <p align="left">
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   </p>
@@ -75,22 +65,26 @@ I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh Univer
 
 ---
 
-###  My Current Quest
+### 🚀 My Current Quest
 
 I'm currently focused on deepening my expertise in these areas:
-- **Advanced Development:** Building full-stack, server-rendered applications with **Next.js**.
-- **Bridging Dev & Ops:** Exploring **MLOps** principles to streamline AI model deployment.
-- **Cloud Architecture:** Gaining hands-on experience with **Azure** and **AWS** for robust, scalable solutions.
+- ⚡ **Advanced Development:** Building full-stack, server-rendered applications with **Next.js**.
+- 🔄 **Bridging Dev & Ops:** Exploring **MLOps** principles to streamline AI model deployment.
+- ☁️ **Cloud Architecture:** Gaining hands-on experience with **Azure** and **AWS**.
 
 ---
 
-###  GitHub Activity
+### 📈 GitHub Activity
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amiirahesham&layout=compact&theme=tokyonight&langs_count=7" alt="WakaTime Stats" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Amiirahesham/Amiirahesham/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
-###  Let's Connect!
+### 📫 Let's Connect!
 
 I'm excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Let's build something amazing together!
 
@@ -106,4 +100,6 @@ I'm excited to connect with fellow developers, AI enthusiasts, and potential col
   </a>
 </p>
 
-> *"Building beautiful experiences today. Shaping intelligent solutions for tomorrow."*
+<p align="center">
+  <i>"Building beautiful experiences today. Shaping intelligent solutions for tomorrow."</i>
+</p>
