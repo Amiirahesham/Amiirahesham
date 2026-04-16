@@ -8,14 +8,14 @@
 
 ---
 
-### 📖 About Me
+###  About Me
 
 I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh University** with a passion for crafting beautiful and intelligent web experiences. My journey in tech is a dual-track adventure: mastering the art of **Front-End Development** while diving deep into the world of **Machine Learning**. I thrive on turning complex problems into elegant, user-centric solutions.
 
-- 🎓 **Education:** Final-year student, Pursuing a B.S. in Artificial Intelligence.
-- 🎯 **Core Mission:** To build web applications that are not only visually stunning but also powered by smart, data-driven insights.
-- 🧠 **Interests:** Natural Language Processing (NLP), Computer Vision, and building AI-powered tools.
-- 🤝 **Collaboration:** I'm always open to collaborating on innovative projects at the intersection of AI and Web Development.
+-  **Education:** Final-year student, Pursuing a B.S. in Artificial Intelligence.
+-  **Core Mission:** To build web applications that are not only visually stunning but also powered by smart, data-driven insights.
+-  **Interests:** Natural Language Processing (NLP), Computer Vision, and building AI-powered tools.
+-  **Collaboration:** I'm always open to collaborating on innovative projects at the intersection of AI and Web Development.
 
 <div align="center">
   <a href="https://github.com/Amiirahesham">
@@ -65,16 +65,16 @@ I'm a **fourth-year** Artificial Intelligence student at **Kafr El-Sheikh Univer
 
 ---
 
-### 🚀 My Current Quest
+### My Current Quest
 
 I'm currently focused on deepening my expertise in these areas:
-- ⚡ **Advanced Development:** Building full-stack, server-rendered applications with **Next.js**.
-- 🔄 **Bridging Dev & Ops:** Exploring **MLOps** principles to streamline AI model deployment.
-- ☁️ **Cloud Architecture:** Gaining hands-on experience with **Azure** and **AWS**.
+-  **Advanced Development:** Building full-stack, server-rendered applications with **Next.js**.
+-  **Bridging Dev & Ops:** Exploring **MLOps** principles to streamline AI model deployment.
+-  **Cloud Architecture:** Gaining hands-on experience with **Azure** and **AWS**.
 
 ---
 
-### 📈 GitHub Activity
+###  GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amiirahesham&layout=compact&theme=tokyonight&langs_count=7" alt="WakaTime Stats" />
@@ -84,7 +84,7 @@ I'm currently focused on deepening my expertise in these areas:
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 I'm excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Let's build something amazing together!
 
