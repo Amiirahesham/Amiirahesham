@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Amira%20Hesham&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=React%20Front-End%20Developer%20%7C%20AI%20Graduate&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+that+feel+inevitable;Frontend+engineer+with+an+AI+background;React+%2B+TypeScript+%2B+;Faculty+of+Artificial+Intelligence%2C+Class+of+2026&font=Fira_Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+that+feel+inevitable;Frontend+engineer+with+an+AI+background;React+%2B+TypeScript+%2B;Faculty+of+Artificial+Intelligence%2C+Class+of+2026&font=Fira_Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
 </a>
 
 <br>
@@ -143,67 +143,54 @@ Built with a team of eight under the supervision of Dr. Mohamed Abdo — my slic
 ---
 
 ## Featured Repositories
-
+ 
 <table align="center">
 <tr>
 <td width="50%">
-
 ### University Portal — Front-End
 Bilingual RTL/LTR platform with role-based dashboards and a streaming AI chatbot.
 <br>
 `React` `TypeScript` `Vite` `Tailwind` `FastAPI`
 <br>
-
-
+ 
 </td>
 <td width="50%">
-
-
-
 </td>
 </tr>
 <tr>
 <td width="50%">
-
 ### Environment Monitoring Dashboard
 Real-time sensor visualization with responsive charting and live data streams.
 <br>
 `React` `Recharts` `WebSockets`
 <br>
 **[View Repository →](https://github.com/Amiirahesham/temp-humidityDashboard)**
-
+ 
 </td>
 <td width="50%">
-
 ### Plant Store
 E-commerce front-end with cart state, filtering, and a component library built for reuse.
 <br>
 `React` `TypeScript` `Tailwind`
 <br>
 **[View Repository →](https://github.com/Amiirahesham/plants_tailwind)**
-
+ 
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2" align="center">
-
 ### Fit U Physical Therapy Website
-
 A modern, responsive website designed for a physical therapy clinic, showcasing services, specialists, and appointment booking with a clean, user-centered experience.
-
 <br>
-
 `React` `TypeScript` `Tailwind CSS` `Responsive Design`
-
 <br>
-
 **[View Repository →](https://github.com/Amiirahesham/FitU-withAddedFeatures)**
-
+ 
 </td>
 </tr>
 </table>
-
 <br>
+
 
 ---
 
@@ -247,16 +234,15 @@ A modern, responsive website designed for a physical therapy clinic, showcasing 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amira-hesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amira-hesham&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiirahesham&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-hesham&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amira-hesham&theme=tokyo-night&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amiirahesham&theme=tokyo-night&hide_border=true" width="98%"/>
 
 </div>
 
-<sub>Replace <code>amira-hesham</code> above with your actual GitHub username for these to render correctly.</sub>
 
 <br>
 
