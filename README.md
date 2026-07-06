@@ -141,58 +141,52 @@ Built with a team of eight under the supervision of Dr. Mohamed Abdo — my slic
 <br>
 
 ---
-
 ## Featured Repositories
- 
+
 <table align="center">
 <tr>
 <td width="50%">
+
 ### University Portal — Front-End
 Bilingual RTL/LTR platform with role-based dashboards and a streaming AI chatbot.
 <br>
 `React` `TypeScript` `Vite` `Tailwind` `FastAPI`
-<br>
- 
+
 </td>
 <td width="50%">
+
+### Fit U Physical Therapy Website
+A modern, responsive website for a physical therapy clinic, showcasing services, specialists, and appointment booking.
+<br>
+`React` `TypeScript` `Tailwind CSS` `Responsive Design`
+<br>
+**[View Repository →](https://github.com/Amiirahesham/FitU-withAddedFeatures)**
+
 </td>
 </tr>
 <tr>
 <td width="50%">
+
 ### Environment Monitoring Dashboard
 Real-time sensor visualization with responsive charting and live data streams.
 <br>
 `React` `Recharts` `WebSockets`
 <br>
 **[View Repository →](https://github.com/Amiirahesham/temp-humidityDashboard)**
- 
+
 </td>
 <td width="50%">
+
 ### Plant Store
 E-commerce front-end with cart state, filtering, and a component library built for reuse.
 <br>
 `React` `TypeScript` `Tailwind`
 <br>
 **[View Repository →](https://github.com/Amiirahesham/plants_tailwind)**
- 
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center">
-### Fit U Physical Therapy Website
-A modern, responsive website designed for a physical therapy clinic, showcasing services, specialists, and appointment booking with a clean, user-centered experience.
-<br>
-`React` `TypeScript` `Tailwind CSS` `Responsive Design`
-<br>
-**[View Repository →](https://github.com/Amiirahesham/FitU-withAddedFeatures)**
- 
+
 </td>
 </tr>
 </table>
-<br>
-
-
----
 
 ## Tech Arsenal
 
