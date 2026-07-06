@@ -255,29 +255,20 @@ E-commerce front-end with cart state, filtering, and a component library built f
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
  
 <br>
----
+
+
 
 ## GitHub Analytics
-
+ 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Amiirahesham&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amiirahesham&theme=tokyo-night&hide_border=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiirahesham&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amiirahesham&theme=tokyo-night&hide_border=true" width="98%"/>
 </div>
-
-
+<sub>Replace <code>amira-hesham</code> above with your actual GitHub username for these to render correctly.</sub>
+ 
 <br>
-
 ---
 
 ## Current Focus
