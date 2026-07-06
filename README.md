@@ -261,12 +261,17 @@ E-commerce front-end with cart state, filtering, and a component library built f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiirahesham&theme=tokyonight&hide_border=true" width="48%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Amiirahesham&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amiirahesham&theme=tokyo-night&hide_border=true" width="98%"/>
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amiirahesham&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -321,7 +326,7 @@ I've shipped a production system end-to-end — not a tutorial clone. That means
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiirahesham/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](amiira.hesham.1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amiirahesham)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](mailto:https://github.com/Amiirahesham)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amira-s-portfolio.vercel.app/)
 
 </div>
@@ -332,6 +337,6 @@ I've shipped a production system end-to-end — not a tutorial clone. That means
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
 
-<sub>Amira Hesham — Front-End Developer, AI Graduate, Faculty of Artificial Intelligence, Kafrelsheikh University, 2026</sub>
+<sub>Amira Hesham — Front-End Developer, AI Graduate, Faculty of Artificial Intelligence, 2026</sub>
 
 </div>
