@@ -189,39 +189,50 @@ E-commerce front-end with cart state, filtering, and a component library built f
 </table>
 
 ## Tech Arsenal
-
+ 
 **Languages**
-
+ 
 ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![SQL](https://skillicons.dev/icons?i=mysql)
-
+ 
 **Front-End**
-
+ 
 ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Materal UI](https://skillicons.dev/icons?i=materialui) ![Figma](https://skillicons.dev/icons?i=figma)
-
+ 
 **Back-End**
-
+ 
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-
+ 
 **Databases**
-
+ 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
-
+ 
 **Machine Learning**
-
+ 
 ![Python](https://skillicons.dev/icons?i=py) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://skillicons.dev/icons?i=opencv)
-
+ 
 **Cloud & Deployment**
-
+ 
 ![Azure](https://skillicons.dev/icons?i=azure) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify)
-
+ 
 **Tools**
-
+ 
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux)
-
-<sub>Also comfortable with: shadcn/ui · Radix UI · TanStack Query · React Context API · Axios · Zod · Framer Motion · Recharts · NumPy · Pandas · scikit-learn</sub>
-
+ 
+**Also Comfortable With**
+ 
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+ 
 <br>
-
 ---
 
 ## GitHub Analytics
