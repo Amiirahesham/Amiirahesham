@@ -1,101 +1,157 @@
-<div id="header" align="center">
-  <h1>Hi, I'm Amira Hesham</h1>
-  <h3>Artificial Intelligence Graduate | React Front-End Developer</h3>
+```markdown
+<div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Graduate;React+Front-End+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Applications&center=true&width=550&height=50">
+# Hi, I'm Amira Hesham
 
-  <br>
+### Artificial Intelligence Graduate | React Front-End Developer
 
-  <img src="https://komarev.com/ghpvc/?username=Amiirahesham&color=blue&style=flat-square" alt="Profile views"/>
+Building modern web applications and AI-powered solutions with a focus on performance, accessibility, and user experience.
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Graduate;React+Front-End+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Amiirahesham&style=flat-square&color=blue" alt="Profile Views"/>
+
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I am an **Artificial Intelligence graduate** with a strong passion for **Front-End Development** and **Machine Learning**. I enjoy building modern, responsive, and user-centered web applications while exploring how Artificial Intelligence can create smarter digital experiences.
+I am an **Artificial Intelligence graduate** with a strong interest in **Front-End Development** and **Machine Learning**.
 
-My graduation project focused on developing a **Smart Integrated University Portal System**, where I contributed to building an intelligent platform that improves the digital experience for students, faculty members, and university administrators.
+I enjoy building responsive, accessible, and scalable web applications while exploring how Artificial Intelligence can solve real-world problems.
 
-I completed professional training through **NTI** and **DEPI**, gaining practical experience in software engineering, modern web technologies, and AI applications.
+My graduation project, **Smart Integrated University Portal System**, focused on developing an integrated platform that streamlines university services and enhances the digital experience for students, faculty members, and administrators.
 
-I am currently seeking opportunities in **Front-End Development**, **Artificial Intelligence**, and **Software Engineering**, where I can contribute, learn, and continue growing as a developer.
+Through professional training at **NTI** and **DEPI**, along with personal and academic projects, I have gained practical experience in modern web development and AI technologies.
 
----
-
-## Technical Skills
-
-### Front-End
-
-<p>
-<a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
-<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"></a>
-<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href="https://mui.com"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
-</p>
-
-### Back-End & Databases
-
-<p>
-<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</p>
-
-### Artificial Intelligence
-
-<p>
-<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-<a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"></a>
-</p>
+I'm currently seeking opportunities in **Front-End Development**, **Artificial Intelligence**, and **Software Engineering**, where I can contribute, continue learning, and grow as a developer.
 
 ---
 
-## GitHub Statistics
+# Featured Projects
+
+### Smart Integrated University Portal System
+Graduation project that provides an integrated platform for managing university services and improving communication between students, faculty members, and administrators.
+
+**Tech Stack**
+
+React • Node.js • MongoDB • Artificial Intelligence
+
+---
+
+### AI Chatbot
+
+An intelligent chatbot powered by Machine Learning and Natural Language Processing techniques.
+
+**Tech Stack**
+
+Python • Flask • TensorFlow • NLP
+
+---
+
+### Environment Monitoring Dashboard
+
+A responsive dashboard that visualizes real-time environmental data with interactive charts and analytics.
+
+**Tech Stack**
+
+React • JavaScript • Chart.js
+
+---
+
+### Responsive Web Applications
+
+A collection of modern React applications built with responsive design, reusable components, and clean user interfaces.
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
+</p>
+
+## Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mui"/>
+</p>
+
+## Back-End & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+## Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
+
+---
+
+# GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amiirahesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiirahesham&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiirahesham&theme=tokyonight"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiirahesham&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Current Focus
+# Current Focus
 
-- Building scalable applications with React and Next.js.
-- Expanding my knowledge of Artificial Intelligence and Machine Learning.
-- Learning cloud technologies and modern software engineering practices.
-- Developing projects that combine AI with intuitive user experiences.
+- Building scalable applications with React.js and Next.js
+- Expanding my expertise in Machine Learning and Artificial Intelligence
+- Learning cloud technologies and deployment workflows
+- Writing clean, maintainable, and accessible code
+- Contributing to impactful software projects
 
 ---
 
-## Connect With Me
+# Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amiirahesham/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="https://www.linkedin.com/in/amiirahesham/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:amiira.hesham.1@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/amirahesham1">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-<p align="center">
-Building modern web experiences powered by Artificial Intelligence.
-</p>
+<div align="center">
+
+### Building intelligent software with modern web technologies.
+
+</div>
+```
