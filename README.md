@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Amira%20Hesham&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=React%20Front-End%20Developer%20%7C%20AI%20Graduate&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+that+feel+inevitable;Frontend+engineer+with+an+AI+background;React+%2B+TypeScript+%2B+a+;Faculty+of+Artificial+Intelligence%2C+Class+of+2026&font=Fira_Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+that+feel+inevitable;Frontend+engineer+with+an+AI+background;React+%2B+TypeScript+%2B+;Faculty+of+Artificial+Intelligence%2C+Class+of+2026&font=Fira_Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
 </a>
 
 <br>
