@@ -3,8 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Amira%20Hesham&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=React%20Front-End%20Developer%20%7C%20AI%20Graduate&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+that+feel+inevitable;Frontend+engineer+with+an+AI+background;React+%2B+TypeScript+%2B+a+RAG+chatbot+in+production;Faculty+of+Artificial+Intelligence%2C+Class+of+2026&font=Fira+Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+that+feel+inevitable;Frontend+engineer+with+an+AI+background;React+%2B+TypeScript+%2B+a+RAG+chatbot+in+production;Faculty+of+Artificial+Intelligence%2C+Class+of+2026&font=Fira_Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
 </a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=amira-hesham&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -150,17 +154,12 @@ Bilingual RTL/LTR platform with role-based dashboards and a streaming AI chatbot
 <br>
 `React` `TypeScript` `Vite` `Tailwind` `FastAPI`
 <br>
-**[View Repository →](#)**
+
 
 </td>
 <td width="50%">
 
-### Arabic RAG Chatbot
-Retrieval-augmented assistant answering university queries in Arabic, with normalization-aware retrieval.
-<br>
-`Python` `FastAPI` `RAG` `Qwen`
-<br>
-**[View Repository →](#)**
+
 
 </td>
 </tr>
@@ -172,7 +171,7 @@ Real-time sensor visualization with responsive charting and live data streams.
 <br>
 `React` `Recharts` `WebSockets`
 <br>
-**[View Repository →](#)**
+**[View Repository →](https://github.com/Amiirahesham/temp-humidityDashboard)**
 
 </td>
 <td width="50%">
@@ -182,19 +181,24 @@ E-commerce front-end with cart state, filtering, and a component library built f
 <br>
 `React` `TypeScript` `Tailwind`
 <br>
-**[View Repository →](#)**
+**[View Repository →](https://github.com/Amiirahesham/plants_tailwind)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2" align="center">
 
-### Family Bank System
-A ledger-style application for shared household finances — accounts, transactions, and running balances.
+### Fit U Physical Therapy Website
+
+A modern, responsive website designed for a physical therapy clinic, showcasing services, specialists, and appointment booking with a clean, user-centered experience.
+
 <br>
-`React` `Node.js` `MongoDB`
+
+`React` `TypeScript` `Tailwind CSS` `Responsive Design`
+
 <br>
-**[View Repository →](#)**
+
+**[View Repository →](https://github.com/Amiirahesham/FitU-withAddedFeatures)**
 
 </td>
 </tr>
@@ -303,10 +307,10 @@ I've shipped a production system end-to-end — not a tutorial clone. That means
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiirahesham/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](amiira.hesham.1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amiirahesham)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amira-s-portfolio.vercel.app/)
 
 </div>
 
