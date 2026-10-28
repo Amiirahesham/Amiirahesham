@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/34075640/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Amira%20Hesham&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Open%20Source%20Full%20Stack%20Developer%20%7C%20AI%20Integration%20Trainee&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
