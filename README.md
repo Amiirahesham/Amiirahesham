@@ -51,6 +51,7 @@ languages: Arabic (native), English (professional)
 
 **Training Programs**
 ```yaml
+- ITI 9-Month Professional Training Program
 - DEPI
 - NTI
 - Microsoft Machine Learning Engineer Program
