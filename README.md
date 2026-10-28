@@ -1,9 +1,10 @@
+[README (1).md](https://github.com/user-attachments/files/34075640/README.1.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Amira%20Hesham&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=React%20Front-End%20Developer%20%7C%20AI%20Graduate&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Amira%20Hesham&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Open%20Source%20Full%20Stack%20Developer%20%7C%20AI%20Integration%20Trainee&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+that+feel+inevitable;Frontend+engineer+with+an+AI+background;React+%2B+TypeScript;Faculty+of+Artificial+Intelligence%2C+Class+of+2026&font=Fira_Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Open+Source+Full+Stack+Developer+Trainee;Full+Stack+Development+%2B+AI+Integration;React+%2B+TypeScript+%2B+Node.js;ITI+9-Month+Professional+Training+Program&font=Fira_Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" />
 </a>
 
 <br>
@@ -19,11 +20,11 @@
 
 ## Who I Am
 
-I'm a Front-End Developer who graduated from the Faculty of Artificial Intelligence at Kafrelsheikh University in 2026. That combination shapes how I work: I write React the way an engineer trained on systems thinks about data — as something with structure, state, and failure modes — not just as boxes on a screen.
+I'm an Open Source Full Stack Developer with AI Integration trainee in the **ITI 9-Month Professional Training Program**. I graduated from the Faculty of Artificial Intelligence at Kafrelsheikh University in 2026, and I'm building on my front-end experience to grow across full-stack development, open-source collaboration, and practical AI integration.
 
-My final year was spent building a full university portal from the ground up: a bilingual Arabic/English platform with role-based dashboards for students, professors, and admins, wired to an AI chatbot running Retrieval-Augmented Generation over Arabic academic documents. I owned the entire front-end — architecture, components, internationalization, performance — while integrating a FastAPI backend built by the rest of the team.
+My graduation project was a bilingual Arabic/English university portal with role-based dashboards and an AI chatbot using Retrieval-Augmented Generation (RAG) over Arabic academic documents. I led the front-end implementation and worked with the team to connect the user experience to AI-powered functionality.
 
-I'm looking for a front-end or full-stack role where interface work and applied AI aren't treated as separate departments.
+I'm currently strengthening my full-stack skills, learning through hands-on projects, and exploring ways to build useful applications that combine reliable software engineering with AI.
 
 </td>
 </tr>
@@ -192,6 +193,9 @@ E-commerce front-end with cart state, filtering, and a component library built f
  
 **Languages**
  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -316,7 +320,7 @@ I've shipped a production system end-to-end — not a tutorial clone. That means
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiirahesham/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](amiira.hesham.1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](mailto:https://github.com/Amiirahesham)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amiirahesham)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amira-s-portfolio.vercel.app/)
 
 </div>
@@ -327,6 +331,6 @@ I've shipped a production system end-to-end — not a tutorial clone. That means
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
 
-<sub>Amira Hesham — Front-End Developer, AI Graduate, Faculty of Artificial Intelligence, 2026</sub>
+<sub>Amira Hesham — Open Source Full Stack Developer with AI Integration Trainee | ITI 9-Month Program</sub>
 
 </div>
